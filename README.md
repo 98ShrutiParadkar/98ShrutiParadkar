@@ -11,12 +11,11 @@
 
 ###
 
-<div>
+<div style="display: flex; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=98shrutiparadkar&show_icons=true&locale=en" height="170" alt="98shrutiparadkar" />
-  <img width="12" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=98shrutiparadkar&show_icons=true&locale=en&layout=compact" height="170" alt="languages graph"  />
-  <img width="12" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=98shrutiparadkar&show_icons=true&locale=en&layout=compact" height="170" alt="languages graph" />
 </div>
+
 <br>
 
 
