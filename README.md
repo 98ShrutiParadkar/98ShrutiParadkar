@@ -50,8 +50,8 @@
 
 
 <div align="left">
-  <a href="paradkarshruti9@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=paradkarshruti9@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
     <img width="7" />
   </a>  
   <a href="https://www.linkedin.com/in/shruti-paradkar-14733015a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
@@ -59,7 +59,6 @@
   </a>
 </div>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paradkarshruti9@gmail.com)
 
 ###
 
