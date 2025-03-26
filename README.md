@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shruti Paradkar</h1>
-<h3 align="center">Exploring the frontiers of AI and machine learning, with a passion for creating innovative solutions!</h3>
+<h4 align="center">Exploring the frontiers of AI and machine learning, with a passion for creating innovative solutions!</h3>
 
 
 <div align="center">
@@ -9,16 +9,12 @@
 
 <br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=98shrutiparadkar&show_icons=true&locale=en" alt="98shrutiparadkar" /></p>
-
-
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=98shrutiparadkar&show_icons=true&locale=en&layout=compact" height="150" alt="languages graph"  />
+<div align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=98shrutiparadkar&show_icons=true&locale=en" height="170" alt="98shrutiparadkar" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=98shrutiparadkar&show_icons=true&locale=en&layout=compact" height="170" alt="languages graph"  />
 </div>
-
-
 
 
 ###
