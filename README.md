@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shruti Paradkar</h1>
-<h4 align="center">Exploring the frontiers of AI and machine learning, with a passion for creating innovative solutions!</h3>
+<h4 align="center"> I am passionate about developing AI-driven solutions that leverage machine learning, deep learning to solve complex real-world problems.</h3>
+    
+
+- 🚀 Currently exploring **LLMs and AI Engineering**
+- 🎯 Looking to contribute to **open-source AI projects**
+- ✍️ I write about my **tech journey, research, and projects**
+- 🌎 Love traveling, meeting new people, and exploring cultures
+- 💙 ***Let's build something amazing together!*** 🚀  
 
 
 <div align="center">
